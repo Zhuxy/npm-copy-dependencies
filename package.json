@@ -1,0 +1,81 @@
+{
+  "_args": [
+    [
+      {
+        "name": "gulp-copy-dependencies",
+        "raw": "gulp-copy-dependencies",
+        "rawSpec": "",
+        "scope": null,
+        "spec": "latest",
+        "type": "tag"
+      }
+    ]
+  ],
+  "_from": "gulp-copy-dependencies@latest",
+  "_id": "gulp-copy-dependencies@0.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/gulp-copy-dependencies",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "email": "redilove@gmail.com",
+    "name": "zhuxy"
+  },
+  "_npmVersion": "2.11.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "gulp-copy-dependencies",
+    "raw": "gulp-copy-dependencies",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gulp-copy-dependencies/-/gulp-copy-dependencies-0.0.1.tgz",
+  "_shasum": "075150e2099bc04b958540a881c6d15ed968565b",
+  "_shrinkwrap": null,
+  "_spec": "gulp-copy-dependencies",
+  "_where": "/Users/zhuxy/Dev/Workspace-node/zxq-tools-web",
+  "author": {
+    "email": "redilove@gmail.com",
+    "name": "zhuxy",
+    "url": "https://github.com/Zhuxy"
+  },
+  "bugs": {
+    "url": "https://github.com/Zhuxy/gulp-copy-dependencies/issues"
+  },
+  "description": "Gulp plugin for listing package.json dependencies",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "075150e2099bc04b958540a881c6d15ed968565b",
+    "tarball": "https://registry.npmjs.org/gulp-copy-dependencies/-/gulp-copy-dependencies-0.0.1.tgz"
+  },
+  "gitHead": "44901ca5fdb694a71a192cc8d9d7a24ed7154cdb",
+  "homepage": "https://github.com/nipher/gulp-copy-dependencies#readme",
+  "keywords": [
+    "gulp-copy-dependencies"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "redilove@gmail.com",
+      "name": "zhuxy"
+    }
+  ],
+  "name": "gulp-copy-dependencies",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuxy/gulp-copy-dependencies.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1"
+}
